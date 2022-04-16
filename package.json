@@ -1,0 +1,14 @@
+{
+  "name": "belajar-php-mvc",
+  "version": "1.0.0",
+  "description": "belajar php mvc wpu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "phpmvc"
+  ],
+  "author": "rayhunts",
+  "license": "ISC"
+}
