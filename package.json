@@ -10,5 +10,21 @@
     "phpmvc"
   ],
   "author": "rayhunts",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RAYHunts/phpmvc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RAYHunts/phpmvc/issues"
+  },
+  "homepage": "https://github.com/RAYHunts/phpmvc#readme",
+  "devDependencies": {
+    "@tailwindcss/line-clamp": "^0.3.1",
+    "autoprefixer": "^10.4.4",
+    "postcss": "^8.4.12",
+    "prettier": "^2.6.0",
+    "prettier-plugin-tailwindcss": "^0.1.8",
+    "tailwindcss": "^3.0.23"
+  }
 }
